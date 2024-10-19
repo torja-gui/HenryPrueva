@@ -1,2 +1,2 @@
-# HenryPrueva
-Es un repositorios de prueba para henry.
+# Prueba_Henry
+Este es un repositorio creado en github para clonarlo en mi PC
